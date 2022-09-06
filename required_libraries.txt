@@ -1,0 +1,2 @@
+randfacts - 0.18.0
+pyjokes   - 0.6.0
